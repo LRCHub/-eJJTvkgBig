@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ポケットサイズロケット",
+  "base_artist": "tayori",
+  "createdAt": "2026-02-18T17:56:44.712718Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポケットサイズロケット",
+      "artist": "tayori",
+      "has_synced": false,
+      "path": "select/pl_01_ポケットサイズロケット_tayori.txt"
+    }
+  ]
+}
